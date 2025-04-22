@@ -70,6 +70,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
-
-//  i explain my needs  deeply ==> when user access SubcriptionProdCard quantity (control with cubit),, then morning and evening  (control with cubit) ,, then Delivery schedule also  (control with cubit) ,,  date also  (control with cubit) ,, day wise quantity also  (control with cubit) ,,, so update cubit and state and give me full code of cubit and state with under concept of Solid Principles
